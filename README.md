@@ -1,3 +1,5 @@
+[This application also supports English](https://github.com/ZJH365/Windows-Universal-Store/blob/main/Readme(English).md)
+
 # 简述
 一个简单易用功能强大的第三方微软应用商店+Windows Phone 档案馆
 
