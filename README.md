@@ -156,6 +156,7 @@ Win10 10240（1507）+ 任何类型设备（包括Win11，Win10Mobile）
 
 # 多彩磁贴
 
-<summary><img src="多彩磁贴On Win10 Mobile" width="300"></summary>
+<details>
+<summary><img src="https://github.com/user-attachments/assets/f2021638-b925-4a47-b886-0879adc193b2" width="300"></summary>
 ![$F0GBWKIL@NEO2P%XIYQK97](https://github.com/user-attachments/assets/f2021638-b925-4a47-b886-0879adc193b2)
 </details>
